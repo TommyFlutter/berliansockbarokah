@@ -1,0 +1,60 @@
+{
+    "id": "restaurant-catalogue-lite-pwa-1",
+    "start_url": "./index.html",
+    "name": "Socks Catalogue Lite",
+    "short_name": "Kaos Kaki",
+    "description": "Free Socks Catalogue for you",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#D84315",
+    "icons": [
+      {
+        "src": "/icons/icon-72x72.jpg",
+        "sizes": "72x72",
+        "type": "image/jpg",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-96x96.jpg",
+        "sizes": "96x96",
+        "type": "image/jpg",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-128x128.jpg",
+        "sizes": "128x128",
+        "type": "image/jpg",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-144x143.jpg",
+        "sizes": "144x143",
+        "type": "image/jpg",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-152x151.jpg",
+        "sizes": "152x151",
+        "type": "image/jpg",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-192x191.png",
+        "sizes": "192x191",
+        "type": "image/jpg",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-384x383.jpg",
+        "sizes": "384x383",
+        "type": "image/jpg",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-512x510.jpg",
+        "sizes": "512x510",
+        "type": "image/jpg",
+        "purpose": "any"
+      }
+    ]
+  }
